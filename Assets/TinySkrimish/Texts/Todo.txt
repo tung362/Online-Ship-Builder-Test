@@ -1,0 +1,32 @@
+Base
+Trim
+Engine
+
+stats:
+nonweapons-
+thrust
+weight
+armor
+shield
+
+weapons-
+damage
+fire rate
+velocity
+type
+
+MAJOR THINGS LEFT TO FINISH
+ShipBase Upgrades(super weapon, move) (1 - 2)
+Terrain generation(astriods) (1 - 2)
+
+To do tomorrow:
+Finish up starbase spawner (Need ai) 2
+Finish Victory condition 3
+HUD (includes pause menu) 4
+
+
+
+
+Notes:
+For network transform, disable tracking when parented otherwise track
+when deleting an object on the server it automatically gets deleted on the clients

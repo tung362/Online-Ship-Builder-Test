@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TinySkrimish/Scenes/MainMenu.unity
+    guid: 79d58912429b30142b3b8b736beac2c1
+  - enabled: 1
+    path: Assets/TinySkrimish/Scenes/ShipBuilder.unity
+    guid: b7121231ab2c0ad43be568c5bbd242c8
+  - enabled: 1
+    path: Assets/TinySkrimish/Scenes/Lobby.unity
+    guid: bc541b4677c149f47a9f0d0d9cf825c5
+  - enabled: 1
+    path: Assets/TinySkrimish/Scenes/Game.unity
+    guid: 00000000000000000000000000000000
